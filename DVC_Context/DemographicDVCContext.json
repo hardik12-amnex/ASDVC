@@ -1,14 +1,14 @@
 {
   "@context": {
     "@version": 1.1,
-    "@vocab": "https://hardik123.github.io/DVC_Context/",
+    "@vocab": "https://hardik12-amnex.github.io/DVC_Context/",
     "schema": "http://schema.org/",
     "farmerId": {
-      "@id": "https://hardik123.github.io/DVC_Context/farmerId",
+      "@id": "https://hardik12-amnex.github.io/DVC_Context/farmerId",
       "@type": "schema:Text"
     },
     "farmerDemoGraphicDetails": {
-      "@id": "https://hardik123.github.io/DVC_Context/farmerDemoGraphicDetails",
+      "@id": "https://hardik12-amnex.github.io/DVC_Context/farmerDemoGraphicDetails",
       "@type": "schema:Thing",
       "@context": {
         "farmerName": {
@@ -16,7 +16,7 @@
           "@type": "schema:Text"
         },
         "identifierName": {
-          "@id": "https://hardik123.github.io/DVC_Context/identifierName",
+          "@id": "https://hardik12-amnex.github.io/DVC_Context/identifierName",
           "@type": "schema:Text"
         },
         "gender": {
@@ -32,7 +32,7 @@
           "@type": "schema:Text"
         },
         "farmerPhoto": {
-          "@id": "https://hardik123.github.io/DVC_Context/farmerPhoto",
+          "@id": "https://hardik12-amnex.github.io/DVC_Context/farmerPhoto",
           "@type": "schema:URL"
         }
       }
@@ -42,7 +42,7 @@
       "@type": "schema:DateTime"
     },
     "dvcType": {
-      "@id": "https://hardik123.github.io/DVC_Context/dvcType",
+      "@id": "https://hardik12-amnex.github.io/DVC_Context/dvcType",
       "@type": "schema:Text"
     }
   }
