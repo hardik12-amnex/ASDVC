@@ -1,5 +1,4 @@
-[
-    {
+{
         "@context": [
             "https://www.w3.org/ns/did/v1"
         ],
@@ -25,4 +24,3 @@
             "did:web:hardik12-amnex.github.io:ASDVC:57a59344-965f-4dfb-b22a-9598e5974f77#key-0"
         ]
     }
-]
