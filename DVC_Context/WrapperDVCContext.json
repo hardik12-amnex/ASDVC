@@ -39,7 +39,7 @@
             "@id": "https://hardik12-amnex.github.io/DVC_Context/farmerCategory",
             "@type": "schema:URL"
         },
-      "assetDvcDetails": {
+       "assetDvcDetails": {
             "@id": "https://hardik12-amnex.github.io/MPDVC_Context/landDvcDetails",
             "@type": "schema:ItemList",
             "@container": "@list"
